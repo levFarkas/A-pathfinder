@@ -8,8 +8,9 @@ Usage:
   - Choose or drag walls (it is not required)
   - Press Start button
 
+![alt text](https://levi-public-bucket.s3-eu-west-1.amazonaws.com/A_star+algorithm_.gif "demo")
 
-Feel free to give feedbacks.
+Feel free to give some feedback.
 
 Installation:
 
