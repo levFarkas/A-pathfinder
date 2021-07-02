@@ -1,6 +1,6 @@
 # A* algorithm visualization
 
-Written in Python 3.7
+Language: Python 3.7
 
 Usage:
   - Choose source
